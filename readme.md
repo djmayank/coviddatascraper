@@ -2,6 +2,12 @@
 
 A PWA app for the covid data visualization for INDIA's data statewise.
 
+![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/djmayank/covidtracker)
+
+![Heroku](https://img.shields.io/badge/heroku-live-brightgreen)
+
+![App](https://img.shields.io/badge/app-live-brightgreen)
+
 #### GITHUB REPOSITORIES
 
 - Frontend - https://github.com/djmayank/coviddatascraper
